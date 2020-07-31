@@ -21,8 +21,7 @@
 * 服务提供者提供服务时可注解参数指定最大工作线程数来限流
 * 服务消费者对服务地址列表进行缓存，并监听变化
 * 传输协议修改，使用消息头+消息体的模式以支持新特性并避免粘包半包问题和留下扩展空间
-
-后续将对核心进行改造，使其支持异步模型
+* 支持异步模型
 
 ### 设计:
 ![design](https://img-blog.csdnimg.cn/20181106001830876.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2FsaW55dWE=,size_16,color_FFFFFF,t_70)
