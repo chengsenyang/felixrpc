@@ -34,7 +34,7 @@
         <avro.version>1.8.1</avro.version>
         <jboss-marshalling.version>2.0.0.Beta2</jboss-marshalling.version>
         <protostuff-api.version>1.5.9</protostuff-api.version>
-        <libthrift.version>0.9.3</libthrift.version>
+        <libthrift.version>0.14.0</libthrift.version>
 
         <maven-source-plugin.version>2.2.1</maven-source-plugin.version>
         <maven-javadoc-plugin.version>2.9.1</maven-javadoc-plugin.version>
